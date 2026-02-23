@@ -1,5 +1,4 @@
 # React Tailwindcss Boilerplate build with Vite
----
 
 ## Whatis inside ?
 - Vite
