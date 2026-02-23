@@ -13,7 +13,7 @@
 
 Create the project
 ```bash
-  pnpm dlx degit kavindu-udara/react-vite-tailwindcss-boilerplate <app-name>
+pnpm dlx degit kavindu-udara/react-vite-tailwindcss-boilerplate <app-name>
 ```
 
 Access the project directory.
